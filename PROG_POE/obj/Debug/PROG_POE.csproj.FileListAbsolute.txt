@@ -1,0 +1,15 @@
+C:\Users\pheko\source\repos\PROG_POE\bin\Debug\PROG_POE.exe.config
+C:\Users\pheko\source\repos\PROG_POE\bin\Debug\PROG_POE.exe
+C:\Users\pheko\source\repos\PROG_POE\bin\Debug\PROG_POE.pdb
+C:\Users\pheko\source\repos\PROG_POE\obj\Debug\PROG_POE.csproj.AssemblyReference.cache
+C:\Users\pheko\source\repos\PROG_POE\obj\Debug\MainWindow.g.cs
+C:\Users\pheko\source\repos\PROG_POE\obj\Debug\App.g.cs
+C:\Users\pheko\source\repos\PROG_POE\obj\Debug\PROG_POE_MarkupCompile.cache
+C:\Users\pheko\source\repos\PROG_POE\obj\Debug\PROG_POE_MarkupCompile.lref
+C:\Users\pheko\source\repos\PROG_POE\obj\Debug\MainWindow.baml
+C:\Users\pheko\source\repos\PROG_POE\obj\Debug\PROG_POE.g.resources
+C:\Users\pheko\source\repos\PROG_POE\obj\Debug\PROG_POE.Properties.Resources.resources
+C:\Users\pheko\source\repos\PROG_POE\obj\Debug\PROG_POE.csproj.GenerateResource.cache
+C:\Users\pheko\source\repos\PROG_POE\obj\Debug\PROG_POE.csproj.CoreCompileInputs.cache
+C:\Users\pheko\source\repos\PROG_POE\obj\Debug\PROG_POE.exe
+C:\Users\pheko\source\repos\PROG_POE\obj\Debug\PROG_POE.pdb
