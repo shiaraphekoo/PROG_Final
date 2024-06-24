@@ -244,3 +244,6 @@ namespace PROG_POE
         }
     }
 }
+//Code Attribution
+//Chandra Hundigam (Aug 29, 2022) Components in C# [Online] Available at: https://www.c-sharpcorner.com/article/components-in-C-Sharp/ Accessed at: 24/06/2024
+//SoumikMo (02 Aug, 2021) C# | Delegates [Online] Available at: https://www.geeksforgeeks.org/c-sharp-delegates/ Accessed at: 24/06/2024
